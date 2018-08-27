@@ -1,8 +1,11 @@
 {
   "expo": {
-    "name": "Instagram Zoom-Draggable Photo with React Native",
-    "sdkVersion": "19.0.0",
+    "name": "freebies/Instagram Zoom-Draggable Photo with React Native",
+    "sdkVersion": "29.0.0",
     "slug": "react-native-instagram-photo",
-    "orientation": "portrait"
+    "orientation": "portrait",
+    "version": "0.1.0",
+    "description": "\nReact Native UI Challenge: Building Instagram Zoom-Draggable Photo.",
+    "githubUrl": "https://github.com/inspireui-team/react-native-instagram-photo"
   }
 }
